@@ -25,6 +25,10 @@ movie.<compression_algorithm>.kirsh
         `--movie.<audio_format>
 ```
 
+In particular,valid lossless compression algorithms are
+`cmix`, `tar.xz` and valid media formats are those
+compatible with FFMpeg and Asciinema.
+
 # Lossy encoding
 
 Details about kirsh lossy encoding will be
